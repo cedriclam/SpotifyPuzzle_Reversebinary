@@ -24,10 +24,14 @@ Output one line with one integer, the number we get by reversing the binary repr
 
 
 Sample input 1
+--------------
   13
-Sample output 1
+Sample output 1 
+---------------
   11
 Sample input 2
+--------------
   47
 Sample output 2
+---------------
   61
